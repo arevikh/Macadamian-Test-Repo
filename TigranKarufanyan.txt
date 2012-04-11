@@ -1,0 +1,28 @@
+This is my test file for git homework.
+
+
+I used the following instruction for this homework:
+
+Basically, you need to do the following:
+
+    Go to my project's page, fork it. You need to fork it because you don't have a write access to my project.
+    Clone it to your local computer, add the file and push it to your repo.
+    Send a pull request. I'll review your request, and I might add some comments. If so, you'll need to fix them and push again.
+    If your pull request is approved, I'll merge it to my project.
+    You'll get a notification. Then you need to update your local master (pull changes from my project) and commit your local master to your fork.
+
+Should you have any question don't hesitate to ask me.
+
+
+2 important things
+
+    When you do git clone, clone your fork, not my project. That means don't do this
+    $ git clone git@github.com:eghonyan/Macadamian-Test-Repo.git
+    you should do this
+    $ git clone git@github.com:tkarufanyan/Macadamian-Test-Repo.git
+    
+    When clone it, git creates a branch called master. Do NOT do anything on that branch. 
+    If you have a task you should create a branch for that (see the presentation). 
+    Create a branch, add the file to your branch, and then push your branch to your fork.
+
+
